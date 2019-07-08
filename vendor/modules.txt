@@ -1,0 +1,17 @@
+# github.com/AckeeDevOps/renovator/client v0.0.0-00010101000000-000000000000 => ./client
+github.com/AckeeDevOps/renovator/client
+# github.com/AckeeDevOps/renovator/config v0.0.0-00010101000000-000000000000 => ./config
+github.com/AckeeDevOps/renovator/config
+# github.com/AckeeDevOps/renovator/notifier v0.0.0-00010101000000-000000000000 => ./notifier
+github.com/AckeeDevOps/renovator/notifier
+# github.com/gorilla/websocket v1.4.0
+github.com/gorilla/websocket
+# github.com/nlopes/slack v0.5.0
+github.com/nlopes/slack
+github.com/nlopes/slack/slackutilsx
+# github.com/pkg/errors v0.8.1
+github.com/pkg/errors
+# golang.org/x/net v0.0.0-20181220203305-927f97764cc3
+golang.org/x/net/publicsuffix
+# gopkg.in/resty.v1 v1.12.0
+gopkg.in/resty.v1
